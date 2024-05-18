@@ -1,0 +1,12 @@
+Su desafío es construir esta próxima página y hacer que se parezca lo más posible al diseño.
+
+Puedes utilizar cualquier herramienta que desees para ayudarte a completar el desafío. Entonces, si tienes algo que te gustaría practicar, no dudes en intentarlo.
+
+Sus usuarios deberían poder:
+
+Ver el diseño óptimo para la interfaz según el tamaño de pantalla de su dispositivo
+Vea los estados de desplazamiento y enfoque de todos los elementos interactivos de la página.
+Reciba un mensaje de error cuando formse envíe si:
+El inputcampo esta vacio
+La dirección de correo electrónico no tiene el formato correcto
+Descargue el código de inicio y revise el README.mdarchivo. Esto proporcionará más detalles sobre el proyecto. El style-guide.mdarchivo es donde encontrarás colores, fuentes, etc.
